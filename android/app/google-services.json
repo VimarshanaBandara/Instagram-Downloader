@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223291722702",
+    "project_id": "instagramdownloader-5698c",
+    "storage_bucket": "instagramdownloader-5698c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223291722702:android:4456b690eaa06ec029b99f",
+        "android_client_info": {
+          "package_name": "com.instadownloader.instagram_downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223291722702-5ukbl3v8o1j24cu7p072aa197lq0tdmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7d51CtyGxnHsTV3o9FM4sj4n0z8Yzb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223291722702-5ukbl3v8o1j24cu7p072aa197lq0tdmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
